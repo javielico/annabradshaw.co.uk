@@ -19,7 +19,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Anna',
     'This is my personal mini site',
-    'Are you looking for my blog?<br> You can find it <a href="https://annabradshaw.me.uk">here</a>.',
+    'Are you looking for my blog?<br> You can find it <a href="https://www.annabradshaw.me.uk">here</a>.',
     getCurrentTime(),
     '👀 A.'
   ]
