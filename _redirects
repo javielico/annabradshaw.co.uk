@@ -1,5 +1,5 @@
 # Redirect with a 404
-/* / 404
+/* /index.html 404
 
 # Redirects alias
 https://annabradshaw.uk* https://www.annabradshaw.co.uk:splat 301!
